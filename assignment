@@ -1,0 +1,3 @@
+r = eval(input(" Enter the radius of the circle:"))
+s = 2* 3.1415926 * r
+print ("the circumference of the circle is" , s)
